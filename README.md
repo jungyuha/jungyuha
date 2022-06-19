@@ -15,9 +15,9 @@
 - Tableau
 - R 
 ## 🔭 I’m currently working on ...
-- 💾 **1**day **2** sqlpPractice posting
-- 💻 **1**day **2** codingtest posting
-- 🕹 **1**day **2** toyProject commit
+- 💾 **1**day **1** sqlpPractice posting
+- 💻 **1**day **1** codingtest posting
+- 🕹 **1**day **1** toyProject commit
 
 <!--
 **jungyuha/jungyuha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
